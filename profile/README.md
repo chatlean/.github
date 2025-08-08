@@ -1,6 +1,6 @@
-## ChatLean: Simplifying Formal Proof-Generating Models with ChatGPT
+## Simplifying Formal Proof-Generating Models with ChatGPT and Basic Searching Techniques
 
-**ChatLean** includes the codes from **"[ChatLean: Simplifying Formal Proof-Generating Models with ChatGPT](https://link.springer.com/chapter/10.1007/978-3-031-92605-1_14)"**.
+**ChatLean** includes the codes from **"[Simplifying Formal Proof-Generating Models with ChatGPT and Basic Searching Techniques](https://link.springer.com/chapter/10.1007/978-3-031-92605-1_14)"**.
 Our research focuses on automated theorem proving (ATP) using simple search algorithms and large language models (LLM).
 
 This project is comprised of three repositories (`b-search`, `d-search`, `AMC12_2023_Lean`), containing the following details:
